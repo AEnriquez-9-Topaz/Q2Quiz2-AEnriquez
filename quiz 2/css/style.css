@@ -1,0 +1,211 @@
+ {
+		margin: 0px;
+		padding: 0px;
+
+	}
+					
+
+html, body {
+			height: 100%;
+			background-image: url(https://t3.ftcdn.net/jpg/02/09/56/98/360_F_209569800_VIZpMGyTiA17cGGHXwN6yzygDilMdcuy.jpg);
+			 background-position: center;
+		  background-repeat: repeat;
+		  background-size: cover;
+		  margin: 0;
+
+
+
+}
+
+
+.pare{
+
+
+	margin: auto;
+	padding: 20px;
+	width: 40%;
+	justify-content: center;
+	display: inline-flex;
+	text-align: center;
+
+}
+
+.forp {
+	margin: auto;
+	padding: 10px;
+}
+
+a.cemi:link { 
+	color: rgb(19, 19, 70);
+	font-family: Poppins;
+}
+a.cemi:visited { 
+	color: rgb(19, 19, 70); 
+}
+a:link {
+color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+.size {
+	width: 15%;
+}
+
+
+.He {
+	font-family: Nova sans;
+	text-align: center;
+	padding: 10px;
+	background-color: #212529;
+	color: white;
+	width: 100%;
+	overflow: hidden;
+	display: block;
+
+}
+
+.He .sc {
+	float: right;
+
+}
+
+.left {
+	text-align: left;
+
+}
+
+
+.welcome {
+	background-color: #FFE3B3;
+	font-family: Nova;
+	padding: 3px;
+
+}
+
+.News {
+	background-color: rgb(100,151,177, 0.9) ;
+	padding: 5px;
+	border-radius: 10px;
+	color: black;
+	font-family: Noto Sans;
+	color: rgb(19, 19, 70) ;
+}
+.He .search-container input {
+  margin-top: 8px;
+  background: #ddd;
+  font-size: 17px;
+  border: 1px solid black;
+  cursor: pointer;
+ 
+}
+.impo {
+	padding: 5px;
+	font-family: Akaya Kanadaka;
+}
+
+h1 {
+	font-family: Akaya Kanadaka;
+}
+
+
+.He .search-container button {
+  
+
+  margin-top: 8px;
+  background: ghostwhite;
+  font-size: 17px;
+  border: 1px solid black;
+  cursor: pointer;
+
+
+}
+
+
+
+.cont {
+	background-color: rgb(19, 19, 70, 0.9);
+	vertical-align: middle;
+	display: inline-block;
+	text-align: left;
+	padding: 20px;
+	color: #DFF2EB;
+	
+
+}
+
+.container {
+	background-color: rgb(19, 19, 70, 0.9) ;
+	padding: 5px;
+	border-radius: 10px;
+	color: black;
+	font-family: Noto Sans;
+	color: #DFF2EB;
+
+
+}
+
+.notca {
+
+}
+
+label {
+	margin-left: 12px;
+}
+
+.header {
+	font-family: Akaya Kanadaka;
+}
+
+legend {
+	 text-align: center;
+
+}
+
+.footer {
+	font-family: Noto sans;
+	bottom: 0;
+	vertical-align: middle;
+	padding-top: 10px;
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	background-color: #212529;
+	color: white;
+	height: 45px;
+
+}
+.Head{
+	font-family: Akaya Kanadaka;
+}
+
+.expe {
+	text-align: left;
+}
+
+
+
+
+.regular {
+	text-align: center;
+	background-color: beige;
+}
+
+h2 {
+	
+}
+
+.Head {
+	text-align: center;
+}
+
+.cen {
+	text-align: center;
+
+}
+
+.mid {
+	text-align: center;
+	}
